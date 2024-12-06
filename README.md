@@ -1,8 +1,5 @@
 # Stock Market Price Prediction using LSTM
 
-**Author:** Kerem Haktan Kurt  
-**Date:** October 2024
-
 ## Introduction
 This project leverages Long Short-Term Memory (LSTM) neural networks to predict future stock prices using historical market data. It utilizes 10 years of past data downloaded from Yahoo Finance, applying feature engineering, model training, and evaluation to produce accurate predictions on unseen data.
 
